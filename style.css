@@ -1,0 +1,11 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center; /* alinhar horizontamente no meio */
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    color: blue;
+
+}
