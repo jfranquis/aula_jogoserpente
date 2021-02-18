@@ -1,2 +1,2 @@
 # aula_jogoserpente
-Desafio criar jogo da serpende
+Desafio Digital Innovation One - Criar jogo da serpende
